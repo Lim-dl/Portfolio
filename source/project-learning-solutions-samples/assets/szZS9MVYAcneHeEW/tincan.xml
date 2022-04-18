@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5e5881atpP3_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">danone-1-demo-eng</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5e5881atpP3_course_id/61KhCsGl891" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+		</activity>
+		<activity id="http://5e5881atpP3_course_id/61KhCsGl891/67En6TLbmc4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5liYR2dMs6o</correctResponsePattern>
+				<correctResponsePattern>choice_6V7t9pv6epU</correctResponsePattern>
+				<correctResponsePattern>choice_6XodY0crEcV</correctResponsePattern>
+				<correctResponsePattern>choice_5Ux3nJSXSKo</correctResponsePattern>
+				<correctResponsePattern>choice_5smpsvG2TVN</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5liYR2dMs6o</id>
+					<description lang="und">Picture 6</description>
+				</component>
+				<component>
+					<id>choice_6V7t9pv6epU</id>
+					<description lang="und">Picture 7</description>
+				</component>
+				<component>
+					<id>choice_6XodY0crEcV</id>
+					<description lang="und">Picture 15</description>
+				</component>
+				<component>
+					<id>choice_5Ux3nJSXSKo</id>
+					<description lang="und">Picture 18</description>
+				</component>
+				<component>
+					<id>choice_5smpsvG2TVN</id>
+					<description lang="und">Picture 19</description>
+				</component>
+				<component>
+					<id>choice_6YXSSnaABbR</id>
+					<description lang="und">Picture 17</description>
+				</component>
+			</choices>
+		</activity>
+	</activities>
+</tincan>

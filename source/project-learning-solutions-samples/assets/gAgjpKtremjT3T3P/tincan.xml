@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5olhvUUWTVY_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Cybersecurity_Demo_Course</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/5kDkdyMTQ58" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Cybersecurity_Demo_Course</name>
+			<description lang="und">Cybersecurity_Demo_Course</description>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/6JqMn2ABXUC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Response</name>
+			<description lang="und">Multiple Response</description>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/6JqMn2ABXUC/5zE820hA2dh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Multiple Response</name>
+			<description lang="und">Multiple Response</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5Vskbv3LI6y</correctResponsePattern>
+				<correctResponsePattern>choice_6hV2pnRU40j</correctResponsePattern>
+				<correctResponsePattern>choice_6YhAzBJV7sq</correctResponsePattern>
+				<correctResponsePattern>choice_68BSwoXzWtc</correctResponsePattern>
+				<correctResponsePattern>choice_6XNX9DjD434</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5Vskbv3LI6y</id>
+					<description lang="und">1</description>
+				</component>
+				<component>
+					<id>choice_6hV2pnRU40j</id>
+					<description lang="und">2</description>
+				</component>
+				<component>
+					<id>choice_6YhAzBJV7sq</id>
+					<description lang="und">3</description>
+				</component>
+				<component>
+					<id>choice_68BSwoXzWtc</id>
+					<description lang="und">5</description>
+				</component>
+				<component>
+					<id>choice_6XNX9DjD434</id>
+					<description lang="und">6</description>
+				</component>
+				<component>
+					<id>choice_6h3FAmaXYTL</id>
+					<description lang="und">4</description>
+				</component>
+			</choices>
+		</activity>
+	</activities>
+</tincan>

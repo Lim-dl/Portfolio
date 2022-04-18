@@ -1,0 +1,664 @@
+{
+  "version": "3.42.22792.0",
+  "scenes": [
+    {
+      "title": "Module1"
+    },
+    {
+      "title": "Module2"
+    },
+    {
+      "title": "Module_3"
+    },
+    {
+      "title": "Module_4"
+    },
+    {
+      "title": "Module_5"
+    },
+    {
+      "title": "Module_6"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6QoXrnCe0lM",
+      "title": "title",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5b7p9LL4q7M",
+      "title": "Инструкция",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6SnmCILfHxT",
+      "title": "Добро пожаловать",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6fxBOWtohDy",
+      "title": "История ученика",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6ONc40iIAHK",
+      "title": "История ученика",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6Gd8BxBpg0x",
+      "title": "История ученика",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5r2q3NsoGwd",
+      "title": "Стану экспертом ",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6hfc3pR71lU",
+      "title": "Стану экспертом ",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6NmVQtU02Dn",
+      "title": "Загадка Мудреца ",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5kka4idvFzI",
+      "title": "US",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5cxMqWH7QC6",
+      "title": "Pick Many",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6dIHYFXNYBD",
+      "title": "Untitled Slide",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6hj9ADB1Lqf",
+      "title": "map",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "5pVafHucQLb",
+      "title": "Основы конструкции шин ",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6cmhuoZ704a",
+      "title": "Категория шин",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6UyuD1uNFeK",
+      "title": "Функции шин",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5a3HKNYbjXD",
+      "title": "Качества шин",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5qqFbFTgzbI",
+      "title": "Конструкция шины и её каркаса",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6ovxXvc45Sd",
+      "title": "Строение шин",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6BTqkClmUFe",
+      "title": "Практическое задание",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6JxD9jvy5S1",
+      "title": "Drag and Drop",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "5sA2GHErQ29",
+      "title": "Производство шин",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "5zyfCQDLAKu",
+      "title": "Материалы для производства шин",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "6OrNi5fZsdu",
+      "title": "Материалы для производства шин",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "6YXRBw4D2Sy",
+      "title": "Процесс производства шины",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "5yilf7rKUIv",
+      "title": "Практическое задание",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "5syjq7S0wLx",
+      "title": "Drag and Drop",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "6nZUhjWRTiI",
+      "title": "Параметры и обозначения шин",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6Am5pX9uhZU",
+      "title": "Основные параметры колеса",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5nBN2LekssV",
+      "title": "Размеры шин",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6KgOQocxiJU",
+      "title": "Обозначения шин",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6WZlKUG9Nwy",
+      "title": "Параметры и обозначения шин",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "66g5dpa99u5",
+      "title": "Обозначения шин",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "60ORXfUXp5W",
+      "title": "Индекс и диапазон нагрузки, символ скорости",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "6RA7arhGLeb",
+      "title": "Практическое задание",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "6UzvWgX2ok0",
+      "title": "Практическое задание",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "61SsFF9RVtf",
+      "title": "Практическое задание",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "65j15sVwniX",
+      "title": "Практическое задание",
+      "scene_index": "3.11"
+    },
+    {
+      "id": "6odwLQl7nuF",
+      "title": "Практическое задание",
+      "scene_index": "3.12"
+    },
+    {
+      "id": "6GRHH92y28l",
+      "title": "Обозначения UTQG ",
+      "scene_index": "3.13"
+    },
+    {
+      "id": "6eR8Z5ECKVw",
+      "title": "Дополнительные обозначения",
+      "scene_index": "3.14"
+    },
+    {
+      "id": "6MzUufNttou",
+      "title": "Дополнительные обозначения",
+      "scene_index": "3.15"
+    },
+    {
+      "id": "6bg6jddznff",
+      "title": "Дополнительные обозначения",
+      "scene_index": "3.16"
+    },
+    {
+      "id": "6GyxOkuEJ3I",
+      "title": "Обозначения на шинах",
+      "scene_index": "3.17"
+    },
+    {
+      "id": "5uLss6AI6Uf",
+      "title": "Обозначения на шинах",
+      "scene_index": "3.18"
+    },
+    {
+      "id": "6gEAZc7n6Zc",
+      "title": "Ситуационный кейс",
+      "scene_index": "3.19"
+    },
+    {
+      "id": "6GgWjz05gej",
+      "title": "Pick One",
+      "scene_index": "3.20"
+    },
+    {
+      "id": "6FyEw3jwg9p",
+      "title": "Pick One",
+      "scene_index": "3.21"
+    },
+    {
+      "id": "5nHD3jTIVYG",
+      "title": "Pick One",
+      "scene_index": "3.22"
+    },
+    {
+      "id": "5nSMloEssnA",
+      "title": "Pick One",
+      "scene_index": "3.23"
+    },
+    {
+      "id": "6N9B7Tw7kCJ",
+      "title": "Pick One",
+      "scene_index": "3.24"
+    },
+    {
+      "id": "6UJ5KuByzGI",
+      "title": "Results Slide",
+      "scene_index": "3.25"
+    },
+    {
+      "id": "5iVENmnELQm",
+      "title": "map",
+      "scene_index": "3.26"
+    },
+    {
+      "id": "6OFPmvY7nIo",
+      "title": "Шиномонтаж",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6kpv4t0TMWe",
+      "title": "Рисунок протектора ",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5eYTlNSk21J",
+      "title": "Аквапланирование",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6l5PaEgcqPY",
+      "title": "Аквапланирование",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "5Wy7m4y9R0D",
+      "title": "Коэффициент трения",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6m2CcSHSBCr",
+      "title": "Сопротивление качению",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5s9LFgdJAPy",
+      "title": "Практическое задание",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "66EH7Jn4yng",
+      "title": "Drag and Drop",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6Ip1Tevoshr",
+      "title": "Шиномонтаж",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "6oQvAASsgoW",
+      "title": "Низкопрофильные шины​",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "6X0sZch25Ys",
+      "title": "Низкопрофильные шины​",
+      "scene_index": "4.11"
+    },
+    {
+      "id": "5zgIlC91BQS",
+      "title": "Порядок установки шины​",
+      "scene_index": "4.12"
+    },
+    {
+      "id": "6DKyv2u3Och",
+      "title": "Метод выравнивания​",
+      "scene_index": "4.13"
+    },
+    {
+      "id": "5cGUQih8ZgY",
+      "title": "Весовой метод​",
+      "scene_index": "4.14"
+    },
+    {
+      "id": "6PuCR097ADi",
+      "title": "Порядок установки шины",
+      "scene_index": "4.15"
+    },
+    {
+      "id": "5sWw8pw3Fn8",
+      "title": "Ситуационный кейс",
+      "scene_index": "4.16"
+    },
+    {
+      "id": "68mURKC4tKC",
+      "title": "Шиномонтаж",
+      "scene_index": "4.17"
+    },
+    {
+      "id": "6Zmp9mepDb4",
+      "title": "Шиномонтаж",
+      "scene_index": "4.18"
+    },
+    {
+      "id": "638DoT9UGj7",
+      "title": "Шиномонтаж",
+      "scene_index": "4.19"
+    },
+    {
+      "id": "6cELo3NvKu8",
+      "title": "Шиномонтаж",
+      "scene_index": "4.20"
+    },
+    {
+      "id": "5t8ebRqIALy",
+      "title": "Шиномонтаж",
+      "scene_index": "4.21"
+    },
+    {
+      "id": "6C355RJe9nm",
+      "title": "Results Slide",
+      "scene_index": "4.22"
+    },
+    {
+      "id": "67XOhP09B06",
+      "title": "map",
+      "scene_index": "4.23"
+    },
+    {
+      "id": "5iRg87hpR9I",
+      "title": "Склад",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6Aj9MBwCXnl",
+      "title": "Проверка состояния шин",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6NwDnWwHRYE",
+      "title": "Проверка шин на безопасность",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "5wPtWrbNsQ1",
+      "title": "Рекомендации по хранению шин",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "5bmJgQYEING",
+      "title": "Склад",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "66sKSkFOnxk",
+      "title": "Drag and Drop",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "6Z2jlU8yzty",
+      "title": "Untitled Slide",
+      "scene_index": "5.7"
+    },
+    {
+      "id": "63M8LUjqWop",
+      "title": "Неравномерный износ",
+      "scene_index": "5.8"
+    },
+    {
+      "id": "6aYnfVVo2Q3",
+      "title": "Untitled Slide",
+      "scene_index": "5.9"
+    },
+    {
+      "id": "6cfskHJVKjs",
+      "title": "Типичные повреждения шин",
+      "scene_index": "5.10"
+    },
+    {
+      "id": "6fhOBCGfirn",
+      "title": "Типичные повреждения шин",
+      "scene_index": "5.11"
+    },
+    {
+      "id": "5n8PICuUkWh",
+      "title": "Типичные повреждения шин",
+      "scene_index": "5.12"
+    },
+    {
+      "id": "6p7Mmlt0uKc",
+      "title": "Untitled Slide",
+      "scene_index": "5.13"
+    },
+    {
+      "id": "6ZHN1JFVrVZ",
+      "title": "Другие повреждения шин",
+      "scene_index": "5.14"
+    },
+    {
+      "id": "5ZTmjzKU49M",
+      "title": "Untitled Slide",
+      "scene_index": "5.15"
+    },
+    {
+      "id": "6bSqvp7MWCr",
+      "title": "Untitled Slide",
+      "scene_index": "5.16"
+    },
+    {
+      "id": "65KmbJ5cC0G",
+      "title": "Склад",
+      "scene_index": "5.17"
+    },
+    {
+      "id": "5WHvz9qXy4Y",
+      "title": "Drag and Drop",
+      "scene_index": "5.18"
+    },
+    {
+      "id": "5ntygk9h5qE",
+      "title": "Untitled Slide",
+      "scene_index": "5.19"
+    },
+    {
+      "id": "65pHqDcVHgo",
+      "title": "map",
+      "scene_index": "5.20"
+    },
+    {
+      "id": "69ov2OznvDj",
+      "title": "Финальное испытание ",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5kGx1swLSBx",
+      "title": "Results Slide",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "5t5bDvccRpf",
+      "title": "Итоговое тестирование",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "5kpe6a52Cnl",
+      "title": "Results Slide",
+      "scene_index": "6.6"
+    },
+    {
+      "id": "6gxMoCSdKbD",
+      "title": "Final_slide",
+      "scene_index": "6.7"
+    },
+    {
+      "id": "5moUDKLakzS",
+      "title": "Pick One",
+      "scene_index": "Q1.1"
+    },
+    {
+      "id": "5jmyeY1up00",
+      "title": "Pick One",
+      "scene_index": "Q1.2"
+    },
+    {
+      "id": "6jqSHCBpona",
+      "title": "Pick One",
+      "scene_index": "Q1.3"
+    },
+    {
+      "id": "6cNMJ8cox9s",
+      "title": "Pick One",
+      "scene_index": "Q1.4"
+    },
+    {
+      "id": "5eIECaJBTK5",
+      "title": "Pick One",
+      "scene_index": "Q1.5"
+    },
+    {
+      "id": "5eHohBsdL04",
+      "title": "Pick One",
+      "scene_index": "Q2.1"
+    },
+    {
+      "id": "6MjSE1ZvwDg",
+      "title": "Pick One",
+      "scene_index": "Q2.2"
+    },
+    {
+      "id": "5V5f65aywjK",
+      "title": "Pick One",
+      "scene_index": "Q2.3"
+    },
+    {
+      "id": "5Y49IjKmrKQ",
+      "title": "Pick One",
+      "scene_index": "Q2.4"
+    },
+    {
+      "id": "66VGsz8yLEZ",
+      "title": "Pick One",
+      "scene_index": "Q2.5"
+    },
+    {
+      "id": "68HiikE9vs8",
+      "title": "Pick One",
+      "scene_index": "Q2.6"
+    },
+    {
+      "id": "5p3lhHOUBsv",
+      "title": "Pick One",
+      "scene_index": "Q2.7"
+    },
+    {
+      "id": "6mI8LWU4kNY",
+      "title": "Pick One",
+      "scene_index": "Q2.8"
+    },
+    {
+      "id": "5hfkt7FioHa",
+      "title": "Pick One",
+      "scene_index": "Q2.9"
+    },
+    {
+      "id": "5uE71isaT8t",
+      "title": "Pick One",
+      "scene_index": "Q2.10"
+    },
+    {
+      "id": "6CdrvDInAL4",
+      "title": "Pick One",
+      "scene_index": "Q2.11"
+    },
+    {
+      "id": "6JZRnyvjxVD",
+      "title": "Pick One",
+      "scene_index": "Q2.12"
+    },
+    {
+      "id": "62fyfSmjTw9",
+      "title": "Pick One",
+      "scene_index": "Q2.13"
+    },
+    {
+      "id": "62waa5OvMgZ",
+      "title": "Pick One",
+      "scene_index": "Q2.14"
+    },
+    {
+      "id": "5odPtwDbRMv",
+      "title": "Pick One",
+      "scene_index": "Q2.15"
+    },
+    {
+      "id": "6LynwAa8Oao",
+      "title": "Pick One",
+      "scene_index": "Q2.16"
+    },
+    {
+      "id": "6ElobzZP9yO",
+      "title": "Pick One",
+      "scene_index": "Q2.17"
+    },
+    {
+      "id": "5s58uLmnHSB",
+      "title": "Pick One",
+      "scene_index": "Q2.18"
+    },
+    {
+      "id": "6MctLspN4E0",
+      "title": "Pick One",
+      "scene_index": "Q2.19"
+    },
+    {
+      "id": "6MWKOuLgDgD",
+      "title": "Pick One",
+      "scene_index": "Q2.20"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1156,
+    "height": 660
+  },
+  "stage": {
+    "width": 1136,
+    "height": 640
+  }
+}

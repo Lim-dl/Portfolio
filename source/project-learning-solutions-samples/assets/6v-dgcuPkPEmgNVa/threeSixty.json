@@ -1,0 +1,248 @@
+{
+  "version": "3.42.22792.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6AyEvyviCoU",
+      "title": "title",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5cyszqHpEfJ",
+      "title": "welcome",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5gKw8YMarUO",
+      "title": "instruction",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "609Pm3csP4B",
+      "title": "introduction",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6CXBA2ML0Be",
+      "title": "Раздел 1. Причины пожара",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6aa9lylW0aQ",
+      "title": "Что такое пожар и как он возникает",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6FJ0eAygM3d",
+      "title": "Кто несет ответственность?",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6H5wAieNq78",
+      "title": "Section1",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6T2afRbwkW7",
+      "title": "Иструкция",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5jX1rGNA01K",
+      "title": "Results Slide",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6i46A0yboxl",
+      "title": "title",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6aP4Zfvt7Ih",
+      "title": "Section2",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6cUzjwlqekd",
+      "title": "Section2",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5n8rfMHNXGt",
+      "title": "Section2",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6adBzuXETKr",
+      "title": "Section2",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5aiCkfBRbGZ",
+      "title": "Section2",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5rQF7ieAPwD",
+      "title": "Section2",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5pf6j9LYjcT",
+      "title": "Аварийные выходы",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "67kb9Ti4G8N",
+      "title": "Задание «Что это значит?»",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "6RGqA1HVifu",
+      "title": "Системы пожаротушения",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "6f1MIPyxqtw",
+      "title": "Системы пожаротушения",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "6FdsdYwd42y",
+      "title": "Системы пожаротушения",
+      "scene_index": "3.11"
+    },
+    {
+      "id": "6cauEBkEA90",
+      "title": "Задание «Как пользоваться огнетушителем?»",
+      "scene_index": "3.12"
+    },
+    {
+      "id": "6GrbnCfRNgF",
+      "title": "Первичные средства пожаротушения",
+      "scene_index": "3.13"
+    },
+    {
+      "id": "67l1JA1GjRy",
+      "title": "Задание «Средства пожаротушения»",
+      "scene_index": "3.14"
+    },
+    {
+      "id": "5kRqeuj8vMy",
+      "title": "Резюме",
+      "scene_index": "3.15"
+    },
+    {
+      "id": "6UZ4lgwTzz2",
+      "title": "Раздел 3. Действия при пожаре",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5n7Af2AwzUq",
+      "title": "Алгоритм действий в случае пожара",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5l0TeiTqVQ9",
+      "title": "Алгоритм действий в случае пожара",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6HAI4Yfql6l",
+      "title": "Алгоритм действий в случае пожара",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6KR07nj3hB3",
+      "title": "Pick Many",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6r0D9m3lX1v",
+      "title": "Первая медицинская помощь",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5jQmdJZrnez",
+      "title": "Задание «Помощь»",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "5UpJaKLN38A",
+      "title": "Резюме",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "5tFxYH2sGCX",
+      "title": "Pick Many",
+      "scene_index": "Q1.1"
+    },
+    {
+      "id": "6Gd4zdewLX5",
+      "title": "Pick Many",
+      "scene_index": "Q1.2"
+    },
+    {
+      "id": "5fPmuZTRlcc",
+      "title": "Pick Many",
+      "scene_index": "Q1.3"
+    },
+    {
+      "id": "6aHgHkdCx4c",
+      "title": "Pick Many",
+      "scene_index": "Q1.4"
+    },
+    {
+      "id": "5neVHMmcXJS",
+      "title": "Pick Many",
+      "scene_index": "Q1.5"
+    },
+    {
+      "id": "6kDqYDUsFXO",
+      "title": "Pick Many",
+      "scene_index": "Q1.6"
+    },
+    {
+      "id": "6rFau4k40nd",
+      "title": "Pick Many",
+      "scene_index": "Q1.7"
+    },
+    {
+      "id": "5rlK64SE0lA",
+      "title": "Pick Many",
+      "scene_index": "Q1.8"
+    },
+    {
+      "id": "60lCRQNHtxH",
+      "title": "Pick Many",
+      "scene_index": "Q1.9"
+    },
+    {
+      "id": "6VQHfFHf0zk",
+      "title": "Pick Many",
+      "scene_index": "Q1.10"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

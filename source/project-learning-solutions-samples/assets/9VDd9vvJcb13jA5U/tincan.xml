@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5olhvUUWTVY_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Cybersecurity_Demo_Course</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/5kDkdyMTQ58" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Cybersecurity_Demo_Course</name>
+			<description lang="und">Cybersecurity_Demo_Course</description>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/6ASlR4LOLvA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Module 2. Q 1</name>
+			<description lang="und">Module 2. Q 1</description>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/6ASlR4LOLvA/6kci8N2sl06" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5zVX4OorNMd</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5zVX4OorNMd</id>
+					<description lang="und">any action with personal data performed with or without automation tools</description>
+				</component>
+				<component>
+					<id>choice_5Y9KEF8kIGt</id>
+					<description lang="und">any action or set of actions concerning personal data and performed with or without automation tools </description>
+				</component>
+			</choices>
+		</activity>
+	</activities>
+</tincan>

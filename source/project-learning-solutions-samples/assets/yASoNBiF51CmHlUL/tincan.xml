@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://Ethics_school" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Ethics_school_demo</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://Ethics_school/6HKhiMdPydN" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Ethics_school_demo</name>
+			<description lang="und">Ethics_school_demo</description>
+		</activity>
+		<activity id="http://Ethics_school/5mfBvDjbdr1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 1</name>
+			<description lang="und">Question 1</description>
+		</activity>
+		<activity id="http://Ethics_school/5mfBvDjbdr1/6o6jSRP1x5d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5jia2DAqHOd</correctResponsePattern>
+				<correctResponsePattern>choice_5cQa2KJQLwU</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6HyMPHUn6kg</id>
+					<description lang="und">Ethical, if the Manager does not violate the law</description>
+				</component>
+				<component>
+					<id>choice_5UxCC30RFGP</id>
+					<description lang="und">Unethical, because the Manager violates the law</description>
+				</component>
+				<component>
+					<id>choice_6SbCcS5Gk5J</id>
+					<description lang="und">Ethical, because the Manager fulfils the task assigned to him — revenue indicators</description>
+				</component>
+				<component>
+					<id>choice_5jia2DAqHOd</id>
+					<description lang="und">Unethical, because these means are unfair
+towards the employees</description>
+				</component>
+				<component>
+					<id>choice_6gpXzm7uG7n</id>
+					<description lang="und">Ethical, since good employees should not give reason for such actions, while baddeserve penalty</description>
+				</component>
+				<component>
+					<id>choice_5cQa2KJQLwU</id>
+					<description lang="und">Unethical, because commitment of employees towards the true company values decreases</description>
+				</component>
+			</choices>
+		</activity>
+	</activities>
+</tincan>

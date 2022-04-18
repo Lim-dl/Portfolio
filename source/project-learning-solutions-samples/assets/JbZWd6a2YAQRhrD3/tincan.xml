@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6cEU2oHkBh7_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">VEON_Code_provider</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6cEU2oHkBh7_course_id/6QFVHYixPco" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Anti-corruption policy</name>
+			<description lang="und">Anti-corruption policy</description>
+		</activity>
+		<activity id="http://6cEU2oHkBh7_course_id/6CtzAadt2o5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Anti-corruption policy 1.18-1</name>
+			<description lang="und">Anti-corruption policy 1.18-1</description>
+		</activity>
+		<activity id="http://6cEU2oHkBh7_course_id/5caAb1qMbi3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Anti-corruption policy 1.18-2</name>
+			<description lang="und">Anti-corruption policy 1.18-2</description>
+		</activity>
+		<activity id="http://6cEU2oHkBh7_course_id/5tGtZskLHyO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations from business partners regardinganti-corruption</name>
+			<description lang="und">Expectations from business partners regardinganti-corruption</description>
+		</activity>
+	</activities>
+</tincan>

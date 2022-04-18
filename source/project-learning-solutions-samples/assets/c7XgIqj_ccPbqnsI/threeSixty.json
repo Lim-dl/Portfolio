@@ -1,0 +1,330 @@
+{
+  "version": "3.42.22792.0",
+  "scenes": [
+    {
+      "title": "Введение"
+    },
+    {
+      "title": "Модуль 1"
+    },
+    {
+      "title": "Модуль 2"
+    },
+    {
+      "title": "Модуль 3"
+    },
+    {
+      "title": "Модуль 4"
+    },
+    {
+      "title": "Модуль 5"
+    },
+    {
+      "title": "Модуль 6"
+    },
+    {
+      "title": "Заключение"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6aGqQnCE7GU",
+      "title": "Титульный",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6ND9DugiMqF",
+      "title": "Приветствие",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "63Ed7HHrxnZ",
+      "title": "Введение",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "66tSnPeWrRR",
+      "title": "Цели и задачи курса",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5iMtOBSR8AS",
+      "title": "Введение",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "673Z59PSSZZ",
+      "title": "Самоменеджмент и достижение результата",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6FRZBJ65l5R",
+      "title": "Задание\"Реактивы и проактивы\"",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6lJMZk3ejI8",
+      "title": "Цели и задачи курса",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "67SX8j1k9Ks",
+      "title": "Задание «Круг забот и Круг влияния»",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5mMR1mFbXeU",
+      "title": "Задание «Мои заботы»",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6RONmA3IGon",
+      "title": "Резюме",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "65kywG3tBkv",
+      "title": "Введение ",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6jOJca3Pcwj",
+      "title": "Введение ",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6jT7YbVNEyb",
+      "title": "Видение цели ",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "63oF3poWq5R",
+      "title": "Задание «Прояснение цели»",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6IJWTZmOfk7",
+      "title": "Задание «Уточняющие вопросы»",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6TPmBq6Ayzy",
+      "title": "Резюме",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5g08hLQ6CiG",
+      "title": "Введение ",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6c34syifOoM",
+      "title": "Введение ",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5pAMhimFjCR",
+      "title": "Приемы самомотивации",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5zbNgqSKJUP",
+      "title": "Задание «Матрица смыслов»",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6h4iKsYChVK",
+      "title": "Проблема прокрастинации",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5aNXAr7BLZh",
+      "title": "Проблема прокрастинации",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5aOc21WNQ2H",
+      "title": "Задание «Проблема прокрастинации»",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "5iTlCYrBNtT",
+      "title": "Прокрастинация и инструменты самомотивации",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6LYFfOUVRe8",
+      "title": "Прокрастинация и инструменты самомотивации",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "5sWTunuPPvS",
+      "title": "Задание «Метод помидора»",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "6Xu0KUCY2YF",
+      "title": "Задание «Метод МОЛОДЕЦ»",
+      "scene_index": "4.11"
+    },
+    {
+      "id": "64WfXuWAtj8",
+      "title": "Резюме",
+      "scene_index": "4.12"
+    },
+    {
+      "id": "5nWFon3ZYwI",
+      "title": "Введение ",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6hNj5GD9BXr",
+      "title": "Принципы формулирования задач",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6fKRy0UNAdH",
+      "title": "Задание «Принципы»",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6GZEfuMpGcE",
+      "title": "Задание «Формулировки»",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "63VdwSQYhUU",
+      "title": "Матрица Эйзенхауэра",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "5aemxgW3lPm",
+      "title": "Задание «Приоритеты»",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "5YDpYtRoFup",
+      "title": "Хронометраж",
+      "scene_index": "5.7"
+    },
+    {
+      "id": "6K48MP7dNuM",
+      "title": "Поглотители времени",
+      "scene_index": "5.8"
+    },
+    {
+      "id": "6cWwsxZvrje",
+      "title": "Задание «Поглотители времени»",
+      "scene_index": "5.9"
+    },
+    {
+      "id": "5e7YcJzAepR",
+      "title": "Резюме",
+      "scene_index": "5.10"
+    },
+    {
+      "id": "5ZfE7S7e9BK",
+      "title": "Введение ",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "6gu9iTmg74m",
+      "title": "Введение ",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6dxDcyg465s",
+      "title": "Оперативное планирование",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "6cXLuBiV212",
+      "title": "Задание «Работа со “Входящими”»",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6lpTQxzh9jl",
+      "title": "Планирование",
+      "scene_index": "6.5"
+    },
+    {
+      "id": "6IMPj7NVmri",
+      "title": "Задание «Оперативное планирование»",
+      "scene_index": "6.6"
+    },
+    {
+      "id": "65NBFtfDsNE",
+      "title": "Планирование",
+      "scene_index": "6.7"
+    },
+    {
+      "id": "6aKW7A7zM92",
+      "title": "Задание «Обратное планирование»",
+      "scene_index": "6.8"
+    },
+    {
+      "id": "5ZlzHci4sRH",
+      "title": "Задание «Стратегическая картонка»",
+      "scene_index": "6.9"
+    },
+    {
+      "id": "5XAyIH8daHv",
+      "title": "Резюме",
+      "scene_index": "6.10"
+    },
+    {
+      "id": "6IyMCXpkIgF",
+      "title": "Введение ",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "6RtIlzJrR4c",
+      "title": "Секрет конструктивного отказа",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "6LCww45UFkQ",
+      "title": "Задание «Ситуации для отказа»",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "5yqGLtZJmzc",
+      "title": "Задание «Техника отказа»",
+      "scene_index": "7.4"
+    },
+    {
+      "id": "5W86QaHH9lJ",
+      "title": "Задание «Аргументация и альтернативы»",
+      "scene_index": "7.5"
+    },
+    {
+      "id": "5ti39mUqDnZ",
+      "title": "Резюме",
+      "scene_index": "7.6"
+    },
+    {
+      "id": "6fQKLsFbi6r",
+      "title": "Резюме по курсу ",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "5gK88ggvwON",
+      "title": "Untitled Slide",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "5pyOLL4NACO",
+      "title": "Untitled Slide",
+      "scene_index": "8.3"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

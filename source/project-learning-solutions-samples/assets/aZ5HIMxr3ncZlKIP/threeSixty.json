@@ -1,0 +1,333 @@
+{
+  "version": "3.42.22792.0",
+  "scenes": [
+    {
+      "title": "Введение+ 1 раздел"
+    },
+    {
+      "title": "3 раздел"
+    },
+    {
+      "title": "2 раздел"
+    },
+    {
+      "title": "Safety_and_Health_Test"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6AyEvyviCoU",
+      "title": "title",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5cyszqHpEfJ",
+      "title": "welcome",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5gKw8YMarUO",
+      "title": "instruction",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "609Pm3csP4B",
+      "title": "introduction",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6CXBA2ML0Be",
+      "title": "Раздел 1. Причины пожара",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6aa9lylW0aQ",
+      "title": "Что такое безопасность труда",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5d8UhLar9h2",
+      "title": "Опасности, которые подстерегают сотрудников в офисе",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5fn4xwdK9f5",
+      "title": "Ответственность за организацию охраны труда в офисе",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "63tB6mUE4ak",
+      "title": "Ответственность за организацию охраны труда в офисе",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6IWItUYTytu",
+      "title": "Ответственность за организацию охраны труда в офисе",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6W7zjUgMjEW",
+      "title": "Проведение инструктажей",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6It5UhjHjBe",
+      "title": "Проведение инструктажей",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "5o3jcn2iNuo",
+      "title": "Резюме",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6jtuF60wNV0",
+      "title": "Untitled Slide",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5f8RFFmqRhi",
+      "title": "Работа с компьютером и офисной техникой",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5ZKen9Hr9YO",
+      "title": "Untitled Slide",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5pWejqG8wgF",
+      "title": "Работа с компьютером и офисной техникой",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6Fi642S17Ko",
+      "title": "Работа с компьютером и офисной техникой",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5eWlBPbKEWp",
+      "title": "Работа с компьютером и офисной техникой",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6qCvLXqbbeu",
+      "title": "На зарядку становись!",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6o0SUG9SRHK",
+      "title": "На зарядку становись!",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6TOD0WYRWZw",
+      "title": "Работа с компьютером и офисной техникой",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "6TcAFFaUIY4",
+      "title": "Задание «Умная планировка»",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "6pmDxAziiAr",
+      "title": "Гигиена труда ",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "6InDJeJYPiK",
+      "title": "Личная гигиена",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "684yoD1sst0",
+      "title": "Резюме",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "6jdjirQBq60",
+      "title": "Кейс \"Рабочий день сотрудника офиса\"",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "63uwmkJOEh0",
+      "title": "Кейс \"Рабочий день сотрудника офиса\"",
+      "scene_index": "2.15"
+    },
+    {
+      "id": "6gruqheAGIn",
+      "title": "Кейс \"Рабочий день сотрудника офиса\"",
+      "scene_index": "2.16"
+    },
+    {
+      "id": "6M5to2mKDwU",
+      "title": "Кейс \"Рабочий день сотрудника офиса\"",
+      "scene_index": "2.17"
+    },
+    {
+      "id": "6GtdEMZVKM8",
+      "title": "Кейс \"Рабочий день сотрудника офиса\"",
+      "scene_index": "2.18"
+    },
+    {
+      "id": "65JaQUvkByW",
+      "title": "Введение",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "68ohZF6Je0z",
+      "title": "Планировка офиса",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "69BaKCSOP68",
+      "title": "Планировка офиса",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5f2PACTPmuZ",
+      "title": "Микроклимат в офисе",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6mjqj7iCSZE",
+      "title": "Микроклимат в офисе",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6miNqiW3mgF",
+      "title": "Микроклимат в офисе",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5qB1nJFf3OK",
+      "title": "Микроклимат в офисе",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5w2L4zu65tw",
+      "title": "Задание «Умная планировка»",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "5cGgNgFWwka",
+      "title": "Электробезопасность",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "6Zdnw892JNC",
+      "title": "Электробезопасность",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "6FgBagNCS15",
+      "title": "Первая помощь при ударе током",
+      "scene_index": "3.11"
+    },
+    {
+      "id": "6iQHIde8cv3",
+      "title": "Задание «Электрика вызывали?»",
+      "scene_index": "3.12"
+    },
+    {
+      "id": "6jJL3SqL1Uq",
+      "title": "Пожарная безопасность",
+      "scene_index": "3.13"
+    },
+    {
+      "id": "6bb4q1mByX6",
+      "title": "Алгоритм действий в случае пожара",
+      "scene_index": "3.14"
+    },
+    {
+      "id": "5iy2Ss5m1d8",
+      "title": "Первая помощь при ожогах",
+      "scene_index": "3.15"
+    },
+    {
+      "id": "6F5LS3kwUQC",
+      "title": "Задание \"Звоните 112\"",
+      "scene_index": "3.16"
+    },
+    {
+      "id": "5htadWYKZTV",
+      "title": "Резюме",
+      "scene_index": "3.17"
+    },
+    {
+      "id": "5YDhH5av5Fu",
+      "title": "Иструкция",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6qCxrQATLCm",
+      "title": "Results Slide",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6UpVgGzN5hy",
+      "title": "title",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "5yW9ip7nI7n",
+      "title": "Pick Many",
+      "scene_index": "Q1.1"
+    },
+    {
+      "id": "6HVhCfSlEDG",
+      "title": "Pick Many",
+      "scene_index": "Q1.2"
+    },
+    {
+      "id": "6KoiuSQCC6j",
+      "title": "Pick Many",
+      "scene_index": "Q1.3"
+    },
+    {
+      "id": "6pUUBUf9ZY9",
+      "title": "Pick Many",
+      "scene_index": "Q1.4"
+    },
+    {
+      "id": "5yTP9Q9bAZV",
+      "title": "Pick Many",
+      "scene_index": "Q1.5"
+    },
+    {
+      "id": "5nNvqkvG02W",
+      "title": "Pick Many",
+      "scene_index": "Q1.6"
+    },
+    {
+      "id": "6hVDr9vEC4L",
+      "title": "Pick Many",
+      "scene_index": "Q1.7"
+    },
+    {
+      "id": "6icr38D9Eq6",
+      "title": "Pick Many",
+      "scene_index": "Q1.8"
+    },
+    {
+      "id": "6hAF2kW4R8n",
+      "title": "Pick Many",
+      "scene_index": "Q1.9"
+    },
+    {
+      "id": "6FUiIWXlHKP",
+      "title": "Pick Many",
+      "scene_index": "Q1.10"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

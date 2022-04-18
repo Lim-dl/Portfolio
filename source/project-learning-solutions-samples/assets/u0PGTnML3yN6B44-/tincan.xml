@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://Ethics_school" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Ethics_school_demo</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://Ethics_school/6HKhiMdPydN" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Ethics_school_demo</name>
+			<description lang="und">Ethics_school_demo</description>
+		</activity>
+		<activity id="http://Ethics_school/6nRm0siYBGc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">History1-3</name>
+			<description lang="und">History1-3</description>
+		</activity>
+	</activities>
+</tincan>

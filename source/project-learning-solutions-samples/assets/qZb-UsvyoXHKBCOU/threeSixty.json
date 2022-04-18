@@ -1,0 +1,279 @@
+{
+  "version": "3.42.22792.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5eemlafMGqK",
+      "title": "Титульный",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5ZF7ua25kDi",
+      "title": "Введение",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5Xvf6ef7C21",
+      "title": "Добро пожаловать",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5rKqHJcq4Kc",
+      "title": "Что тебя ждет в курсе?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5VyqlRYfx9P",
+      "title": "Введение в раздел",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "689vzFUe7IE",
+      "title": "Природа мышления",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6CaYwyPADIp",
+      "title": "Дополнительно о структуре интеллекта",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5cwHJxBwglG",
+      "title": "Определение и критерии креативности",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6AmYwgrJkl9",
+      "title": "Тренировка дивергентного мышления ",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5nh9FtWh5xC",
+      "title": "Креативность в бизнесе",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5hnLbaEjkgX",
+      "title": "Вопрос для размышления ",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "60xoVotckdg",
+      "title": "Пример креативности",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6G5h0f3Hvy0",
+      "title": "Вопрос Р2Р",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "60coPHemTCX",
+      "title": "Введение в раздел",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "6IVlcZ0RHcH",
+      "title": "Тест: насколько ты креативен",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "6PnAEqPpUr1",
+      "title": "Природа шаблонного мышления",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "65YyhmwAMtq",
+      "title": "Дополнительно о системах мышления",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "6QbND7yDhL6",
+      "title": "Развитие креативности",
+      "scene_index": "1.18"
+    },
+    {
+      "id": "5gOH55efWbq",
+      "title": "Дополнительно о прокачке творческого мышления",
+      "scene_index": "1.19"
+    },
+    {
+      "id": "5k1Qx6S6dur",
+      "title": "Резюме по определению креативности",
+      "scene_index": "1.20"
+    },
+    {
+      "id": "6koVlQMrWDk",
+      "title": "Введение в раздел",
+      "scene_index": "1.21"
+    },
+    {
+      "id": "5ieGyJCmOh4",
+      "title": "Рождение креативных идей",
+      "scene_index": "1.22"
+    },
+    {
+      "id": "6Gwhqz1dcdV",
+      "title": "Подробнее об искусстве мыслить",
+      "scene_index": "1.23"
+    },
+    {
+      "id": "6Syi7EaDgwZ",
+      "title": "Этап 1. Подготовка",
+      "scene_index": "1.24"
+    },
+    {
+      "id": "5qWh6WfzC6F",
+      "title": "Сбор информации о задаче",
+      "scene_index": "1.25"
+    },
+    {
+      "id": "68NsapkHsmx",
+      "title": "Вопрос для размышления ",
+      "scene_index": "1.26"
+    },
+    {
+      "id": "5xwJdj4Ojwl",
+      "title": "Техники развития креативности",
+      "scene_index": "1.27"
+    },
+    {
+      "id": "6IJnmgeoUMy",
+      "title": "Техника «Ассоциации 5+5» ",
+      "scene_index": "1.28"
+    },
+    {
+      "id": "6Z6gAdavqBN",
+      "title": "Техника «Я слишком» ",
+      "scene_index": "1.29"
+    },
+    {
+      "id": "5vayBnHtyQh",
+      "title": "21 способ мыслить нестандартно",
+      "scene_index": "1.30"
+    },
+    {
+      "id": "6IkoZvWvykb",
+      "title": "Резюме по этапу подготовки",
+      "scene_index": "1.31"
+    },
+    {
+      "id": "5X0wkKdpLlt",
+      "title": "Этап 2. Инкубация",
+      "scene_index": "1.32"
+    },
+    {
+      "id": "5YDuwrIiCdw",
+      "title": "Период инкубации в рождении креативных идей",
+      "scene_index": "1.33"
+    },
+    {
+      "id": "6CvmqpYQfAy",
+      "title": "Подробнее про этап инкубации",
+      "scene_index": "1.34"
+    },
+    {
+      "id": "69nSjQseH4x",
+      "title": "Резюме по этапу подготовки",
+      "scene_index": "1.35"
+    },
+    {
+      "id": "6QFd78753tf",
+      "title": "Этап 3. Инсайт",
+      "scene_index": "1.36"
+    },
+    {
+      "id": "6HGR0ThIpdX",
+      "title": "Когда приходит озарение",
+      "scene_index": "1.37"
+    },
+    {
+      "id": "5roCVR4IPRc",
+      "title": "Техники озарения",
+      "scene_index": "1.38"
+    },
+    {
+      "id": "6iRMvob1kkT",
+      "title": "Техника «Цепочка ассоциаций»",
+      "scene_index": "1.39"
+    },
+    {
+      "id": "6Enh19i7FlB",
+      "title": "Техника «Main storming» ",
+      "scene_index": "1.40"
+    },
+    {
+      "id": "60UUhiz3avz",
+      "title": "Техника «Main storming» ",
+      "scene_index": "1.41"
+    },
+    {
+      "id": "60yY3hWwMap",
+      "title": "Дополнительно про техники катализации инсайта",
+      "scene_index": "1.42"
+    },
+    {
+      "id": "6HMhVZEzJxP",
+      "title": "Резюме по этапу инсайта",
+      "scene_index": "1.43"
+    },
+    {
+      "id": "6csy860ZfFc",
+      "title": "Этап 4. Апробация",
+      "scene_index": "1.44"
+    },
+    {
+      "id": "6G86UW5gYHw",
+      "title": "Особенности этапа апробации",
+      "scene_index": "1.45"
+    },
+    {
+      "id": "6JLUSssTyfB",
+      "title": "Untitled Slide",
+      "scene_index": "1.46"
+    },
+    {
+      "id": "5ewQA69Ii0l",
+      "title": "Полезные советы по созданию творческой атмосферы",
+      "scene_index": "1.47"
+    },
+    {
+      "id": "6Yf5edX5yXM",
+      "title": "Untitled Slide",
+      "scene_index": "1.48"
+    },
+    {
+      "id": "6o8UXrxfm8f",
+      "title": "Введение",
+      "scene_index": "1.49"
+    },
+    {
+      "id": "5UtS08buLqy",
+      "title": "Untitled Slide",
+      "scene_index": "1.50"
+    },
+    {
+      "id": "5oc9mhXEXAN",
+      "title": "Титульный",
+      "scene_index": "1.51"
+    },
+    {
+      "id": "6ZJalJCHrh4",
+      "title": "Results Slide",
+      "scene_index": "1.52"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

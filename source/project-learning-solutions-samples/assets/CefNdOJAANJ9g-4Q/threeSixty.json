@@ -1,0 +1,385 @@
+{
+  "version": "3.42.22792.0",
+  "scenes": [
+    {
+      "title": "Introduce"
+    },
+    {
+      "title": "Module_1"
+    },
+    {
+      "title": "Module_2"
+    },
+    {
+      "title": "Module_3"
+    },
+    {
+      "title": "Module_4"
+    },
+    {
+      "title": "Module_5"
+    },
+    {
+      "title": "Module_6"
+    },
+    {
+      "title": "TheEnd"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6fm5YvSE45h",
+      "title": "StartCourse",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6lbtWEsU7uN",
+      "title": "Welcome",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5wb2r3Z9Lx7",
+      "title": "Instruction",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6cR1o5jCDdb",
+      "title": "General rules​",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5y3HqjqmdKp",
+      "title": "General rules​",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5v9gx0PKJKp",
+      "title": "General rules​",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6ie9QBBXDsm",
+      "title": "General rules​",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6fwjiJqL0kt",
+      "title": "Home Network Security",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6YDxPEj6ny3",
+      "title": "Home Network Security",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6EFeSBusjXU",
+      "title": "Home Network Security",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5cNCdrUMHUZ",
+      "title": "Home Network Security",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6o7Q9bathc0",
+      "title": "Barbara changes periodically the settings of the wireless router to secure her Wi-Fi network. \rShe sets a password of 12 different characters and replaces the name of the network \rin which her last name was present.\nIs it Safe or Risky?",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5ZoCOr0Kj6T",
+      "title": "Mike uses a password-protected home Wi-Fi. He connects a work laptop to one access \rpoint, and a personal computer to the other. On a home computer, Mike often \rinstalls freeware. \nIs it Safe or Risky for his work laptop?",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6U2ykpWHLpf",
+      "title": "Home Network Security",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5cW2gYiks9d",
+      "title": "Results Slide",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6q1Mq03L6o0",
+      "title": "Equipment & Software Safety​",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6S5BRjd1Qxm",
+      "title": "Equipment & Software Safety​",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6NDoqEQX4p5",
+      "title": "Robert received an email invitation from the client to register in cloud storage to share \rproject files. The client tried but couldn't use corporate services, advised by Robert. \rEventually, Robert confirmed the invitation.\nIs it Safe or Risky?",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6EF1ynpv8UU",
+      "title": "Paul was advised by his colleague to use more convenient freeware text \reditor instead of preinstalled standard software suite. Paul followed the \rcollegue suggestion.\nIs it Safe or Risky?",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6DBHeppxeYz",
+      "title": "Equipment & Software Safety​",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5vSDGXts0RH",
+      "title": "Results Slide",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5tCbWKmUUzp",
+      "title": "Secure your Data​",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5vBOMeKKbpt",
+      "title": "Secure your Data​",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6UJZjAWYJm3",
+      "title": "General rules​",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5ftvoWlixIF",
+      "title": "General rules​",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6PhiIMFR23E",
+      "title": "General rules​",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5dpg1Aenlcx",
+      "title": "Alan works from home. He came up with a complex password (12 characters: capital \rand lowercase letters, numbers and symbols) for personal mail. In order not to get confused, \rhe used the same password on his work mail.\nIs it Safe or Risky to use the same password?",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5vQ3XmiRzRe",
+      "title": "Jane came up with a password (9 characters) to log into the work system. In order \rnot to forget the password, she created a file with a password on the computer \rand encrypted it. In addition, her computer also has a password. \nIs it Safe or Risky? ",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6PY6LkLxQPQ",
+      "title": "Try to determine: is the password strong or weak?​",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6XgZ0a4OjHr",
+      "title": "Useful resources",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "6dOHt6a0tov",
+      "title": "Results Slide",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "5lefwTEULRZ",
+      "title": "Safe storage data​",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5Yov1WE7P7n",
+      "title": "Safe storage data​",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5jYthpHAUo6",
+      "title": "Safe storage data​",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6TDPUEmukKp",
+      "title": "Safe storage data​",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "6WgzSL6ofCA",
+      "title": "Safe storage data​",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "6a9reqbNmzT",
+      "title": "Safe storage data​",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "5WNfQm5jFNL",
+      "title": "Safe storage data​",
+      "scene_index": "5.7"
+    },
+    {
+      "id": "6brPzZu56ry",
+      "title": "At the end of the working day, Mary hurries to transfer the completed tasks to her manager. She encrypts sensitive data and tries to send it via corporate email. But Mary’s files are too large and do not fit into the corporate mail limit. Therefore, she sends files by personal email.",
+      "scene_index": "5.8"
+    },
+    {
+      "id": "6k7CDlyBIY2",
+      "title": "The project Malik worked on was successfully completed. To save the project sensitive \rdata, Malik copied it to a corporate server and recorded it on an external device \rfor reliability.\nIs it Safe or Risky?",
+      "scene_index": "5.9"
+    },
+    {
+      "id": "6rpptraEhRs",
+      "title": "Sheila works at home with financial paper documents. Sensitive data is stored \rin a lockable file cabinet next to her husband’s documents and printed copies \rare stored on the desk. \nIs it Safe or Risky?",
+      "scene_index": "5.10"
+    },
+    {
+      "id": "6IFQ7zIH75U",
+      "title": "Safe storage data​",
+      "scene_index": "5.11"
+    },
+    {
+      "id": "6ZVjyZMraVN",
+      "title": "Safe storage data​",
+      "scene_index": "5.12"
+    },
+    {
+      "id": "5jCB4fF7JAl",
+      "title": "Results Slide",
+      "scene_index": "5.13"
+    },
+    {
+      "id": "6REEtglVmg2",
+      "title": "Data Privacy​",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "6MCGpwrft7Q",
+      "title": "Data Privacy​",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "5mAFLS3rdLL",
+      "title": "Data Privacy​",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "6L2SWq3eC5P",
+      "title": "Data Privacy​",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6Zntlm6ra7j",
+      "title": "Ethan's working day is over. He disconnected from the company's VPN. \rHis wife asked to use his laptop for 5 minutes to check her mail.\nIs it Safe or Risky?",
+      "scene_index": "6.5"
+    },
+    {
+      "id": "5sGTTc4rDr2",
+      "title": "Kelly works from home. She decided to go to the grocery store for 5 minutes. \rShe left her working smartphone at home, having previously locked it. However, \rher husband remained at home.\nIs it Safe or Risky?",
+      "scene_index": "6.6"
+    },
+    {
+      "id": "6jDo7e7IWxd",
+      "title": "Data Privacy​",
+      "scene_index": "6.7"
+    },
+    {
+      "id": "6A0ewxgwFiD",
+      "title": "Results Slide",
+      "scene_index": "6.8"
+    },
+    {
+      "id": "5ct1RateXlg",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5uzPkzvG4X5",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "5l6M1l3gBvm",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "5hBBX37v2BQ",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.4"
+    },
+    {
+      "id": "6DsDPxxzTrs",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.5"
+    },
+    {
+      "id": "6kAh5AvEBTI",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.6"
+    },
+    {
+      "id": "6gCyuqg6pJu",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.7"
+    },
+    {
+      "id": "6omM4HBziVh",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.8"
+    },
+    {
+      "id": "5Ys80VjWChK",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.9"
+    },
+    {
+      "id": "6GRlRpGNLUs",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.10"
+    },
+    {
+      "id": "5yXjWfDwUbi",
+      "title": "Molly received an email from the Postal service. \rLook and determine: is it Safe or Risky?",
+      "scene_index": "7.11"
+    },
+    {
+      "id": "5nCgNutY4TV",
+      "title": "Alan received a message to WhatsApp. \rLook and determine: is it Safe or Risky \rto click on the link?",
+      "scene_index": "7.12"
+    },
+    {
+      "id": "64h6z3ev9vb",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.13"
+    },
+    {
+      "id": "6LkiICIqN8O",
+      "title": "Stay safe from Cyber criminals​",
+      "scene_index": "7.14"
+    },
+    {
+      "id": "6A2L1W5HKzj",
+      "title": "Results Slide",
+      "scene_index": "7.15"
+    },
+    {
+      "id": "5a90TIyDeeE",
+      "title": "Results Slide",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "6OHUpgrSpnU",
+      "title": "ExitCourse",
+      "scene_index": "8.2"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1300,
+    "height": 791
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

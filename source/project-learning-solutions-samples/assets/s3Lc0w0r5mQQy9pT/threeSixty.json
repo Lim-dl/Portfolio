@@ -1,0 +1,94 @@
+{
+  "version": "3.35.21017.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6lyOTkhyX1N",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6SGcuzZfeZt",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5lNgI7aTEuv",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5x9lbnN49Ux",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5wd56YTxQI5",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6hxNTdLBvs0",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "61zwTe78boF",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6IjulXd7xxk",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6S8QQfZNFsi",
+      "title": "Untitled Slide",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6NVFuuhmIS1",
+      "title": "Untitled Slide",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5aS6z3X3xAk",
+      "title": "Untitled Slide",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5kWE8zdaO8z",
+      "title": "Untitled Slide",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "5i4jlqR0K0C",
+      "title": "Untitled Slide",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6QYDAxnIdrL",
+      "title": "Untitled Slide",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "5cfU9l3zxKn",
+      "title": "Untitled Slide",
+      "scene_index": "1.15"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1386,
+    "height": 788
+  },
+  "stage": {
+    "width": 1366,
+    "height": 768
+  }
+}

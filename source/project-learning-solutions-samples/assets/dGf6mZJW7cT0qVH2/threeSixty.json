@@ -1,0 +1,243 @@
+{
+  "version": "3.42.22792.0",
+  "scenes": [
+    {
+      "title": "Введение"
+    },
+    {
+      "title": "Выбор клиента"
+    },
+    {
+      "title": "Клиент 1"
+    },
+    {
+      "title": "Клиент 2"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5XJQTELjygD",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Pt44fwiC1D",
+      "title": "Знакомство",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5VT0HxOcxUH",
+      "title": "Знакомство",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6eaCEo31HFx",
+      "title": "Правила",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5u4mrZ893qN",
+      "title": "Правила",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6gzRPSNLhln",
+      "title": "Правила",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6rN6bMwayPk",
+      "title": "Правила",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6Ki4vdSErmF",
+      "title": "Правила",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5ckSg8UjAH1",
+      "title": "Правила",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6lwEUH6OhHz",
+      "title": "Правила",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6MHkPBzqfzc",
+      "title": "Выбор клиента",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6keWRQOtvGB",
+      "title": "Untitled Slide",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6hdqYMKwgb2",
+      "title": "Results Slide",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "61BYKcxebJt",
+      "title": "Установление контакта",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "64ngHI7Akqu",
+      "title": "Установление контакта",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5XDsFVDynvQ",
+      "title": "Выявление потребностей",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6jCgQPuWfF3",
+      "title": "Выявление потребностей",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6J21sYhln8e",
+      "title": "Выявление потребностей",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6MQxqlvrfzI",
+      "title": "День первый. Клиент2",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5nIy1kUbMjO",
+      "title": "Установление контакта",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6ItihmGGJ32",
+      "title": "Установление контакта",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6ASyIKeTAZH",
+      "title": "Выявление потребностей",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6PTB3D1DSMN",
+      "title": "Выявление потребностей",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5cj3AJLzJqf",
+      "title": "Выявление потребностей",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6Kuq5qsD49D",
+      "title": "Выявление потребностей",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6H8oBf9yUMr",
+      "title": "Выявление потребностей",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6aeiguEfRPY",
+      "title": "Убеждение",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "6DOZ6JxoiPR",
+      "title": "Убеждение",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "5xDg1nxqNhp",
+      "title": "Untitled Slide",
+      "scene_index": "4.11"
+    },
+    {
+      "id": "6lRET7z098O",
+      "title": "Соединение",
+      "scene_index": "4.12"
+    },
+    {
+      "id": "5skp8S8ReU8",
+      "title": "Соединение",
+      "scene_index": "4.13"
+    },
+    {
+      "id": "5l89Y0N4uHn",
+      "title": "Соединение",
+      "scene_index": "4.14"
+    },
+    {
+      "id": "5o94o6MUAYF",
+      "title": "Untitled Slide",
+      "scene_index": "4.15"
+    },
+    {
+      "id": "5zpItLTz8cf",
+      "title": "Untitled Slide",
+      "scene_index": "4.16"
+    },
+    {
+      "id": "6BZ2alkxD9G",
+      "title": "Соединение",
+      "scene_index": "4.17"
+    },
+    {
+      "id": "5YtNw63XDwa",
+      "title": "Соединение",
+      "scene_index": "4.18"
+    },
+    {
+      "id": "5gFaafZPujE",
+      "title": "Untitled Slide",
+      "scene_index": "4.19"
+    },
+    {
+      "id": "6PyCO0gk62R",
+      "title": "Untitled Slide",
+      "scene_index": "4.20"
+    },
+    {
+      "id": "61pulIiyNM3",
+      "title": "закрытие продажи",
+      "scene_index": "4.21"
+    },
+    {
+      "id": "6W7AQO6idmi",
+      "title": "оСТАЕМСЯ НА СВЯЗИ",
+      "scene_index": "4.22"
+    },
+    {
+      "id": "6buGb21isAM",
+      "title": "Untitled Slide",
+      "scene_index": "4.23"
+    },
+    {
+      "id": "5le6Ys4hJZM",
+      "title": "Results Slide",
+      "scene_index": "4.24"
+    },
+    {
+      "id": "6CubEX1KJqw",
+      "title": "Резюме по клиенту 2",
+      "scene_index": "4.25"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1354,
+    "height": 770
+  },
+  "stage": {
+    "width": 1334,
+    "height": 750
+  }
+}

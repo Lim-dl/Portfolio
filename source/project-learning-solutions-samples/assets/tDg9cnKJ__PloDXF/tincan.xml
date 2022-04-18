@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5olhvUUWTVY_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Cybersecurity_Demo_Course</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/5kDkdyMTQ58" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Cybersecurity_Demo_Course</name>
+			<description lang="und">Cybersecurity_Demo_Course</description>
+		</activity>
+		<activity id="http://5olhvUUWTVY_course_id/6PPMovKilm5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Module 1</name>
+			<description lang="und">Module 1</description>
+		</activity>
+	</activities>
+</tincan>
