@@ -3,16 +3,16 @@
   <head>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="themes/pro-dark-theme/style.css">
+    <link rel="stylesheet" href="themes/style.css">
     <title>Портфолио Junior верстальщика</title>
   </head>
 
-  <body>
+  <body class="page dark-theme">
     <header class="page-header">
       <div class="container">
-        
         <a class="header-email" href="mailto:daniel.lemeshkov@gmail.com">daniel.lemeshkov@gmail.com</a>
         <a class="header-phone" href="tel:+79508363428">+7 950 836 34 28</a>
+        <button class="change-theme" style="position: fixed; z-index: 100;">Сменить тему</button>
       </div>
     </header>
   
@@ -85,5 +85,15 @@
         <a style="float: right; padding-top: 0px;" href="https://htmlacademy.ru/" target="_blank">#made_in_htmlacademy</a>
     </div>
     </footer>
+
+    <script type="text/javascript">
+      let page = document.querySelector('body');
+      let themeButton = document.querySelector('.change-theme');
+
+      themeButton.onclick = function(){
+        page.classList.toggle('dark-theme');
+        page.classList.toggle('light-theme');
+      }
+    </script>
   </body>
 </html>
