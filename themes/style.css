@@ -374,6 +374,7 @@ body.light-theme {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+  float: left;
 }
 
 .light-theme .header-email {
