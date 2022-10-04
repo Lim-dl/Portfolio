@@ -1,99 +1,231 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="themes/style.css">
-    <title>Портфолио Junior верстальщика</title>
-  </head>
+<html lang="ru">
 
-  <body class="page dark-theme">
-    <header class="page-header">
-      <div class="container">
-        <a class="header-email" href="mailto:daniel.lemeshkov@gmail.com">daniel.lemeshkov@gmail.com</a>
-        <a class="header-phone" href="tel:+79508363428">+7 950 836 34 28</a>
-        <button class="change-theme" style="position: fixed; z-index: 100;">Сменить тему</button>
-      </div>
-    </header>
-  
-    <section class="hero-image">
-      <div class="container">
-      <h1 class="heading">Лемешков Данил Васильевич</h1>
-      <p>Junior верстальщик</p>
-    </div>
-    </section>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Портфолио - Лемешков Данил</title>
+	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="./css/swipe.min.css">
+	<link rel="icon" href="./img/Logo2.png">
+</head>
 
-    <section class="intro">
-      <div class="container">
-      <h2 class="subheading">Давайте познакомимся</h2>
-      
-      <figure class="user-image">
-        <img src="files/user.png" width="928" height="536" alt="Фотография Неопознаного Енота">
-      </figure>
-      <div class="skills">
-        <h3>Пара слов о себе</h3>
-        <p>Опыт работы с командой, разработка и верстка WEB-приложений. Веду деловую переписку. Пунктуальный, грамотный. Охотно и быстро воспринимаю информацию по указаной тематике. Хочу стать востребованным профессионалом в области Fronted-developer.</p>
-        <h3>Мои навыки</h3>
-        <dl class="skills-list">
-          <dt class="skill-html">HTML</dt>
-          <dd class="level"><div style="width: 75%;">75%</div></dd>
-          <dt class="skill-css">CSS</dt>
-          <dd class="level"><div style="width: 60%;">60%</div></dd>
-          <dt class="skill-js">JS</dt>
-          <dd class="level"><div style="width: 20%;">20%</div></dd>
-        </dl>
-      </div>
-    </div>
-    </section>
+<body>
+	<div class="bg"></div>
+	<div class="load-wrapp">
+		<div class="load">
+			<div class="letter-holder">
+				<img class="parrto-dance" src="./img/parrot-party.gif"
+					alt="">
+				<div class="l-1 letter">Н</div>
+				<div class="l-2 letter">и</div>
+				<div class="l-3 letter"> </div>
+				<div class="l-4 letter">Х</div>
+				<div class="l-5 letter">а</div>
+				<div class="l-6 letter">о</div>
+				<div class="l-7 letter">.</div>
+				<div class="l-8 letter">.</div>
+				<div class="l-9 letter">.</div>
+				<div class="l-10 letter">.</div>
+			</div>
+		</div>
+	</div>
+	<nav id="menu-content">
+		<ul id="menu-frame">
+			<li><a draggable="false" href="#page1" class="active">Главная</a></li>
+			<li><a draggable="false" href="#page2">О себе</a></li>
+			<li><a draggable="false" href="#page3">Навыки</a></li>
+			<li><a draggable="false" href="#page4">Мои работы</a></li>
+			<li><a draggable="false" href="#page5">Контакты</a></li>
+		</ul>
+	</nav>
+	<section id="page1" class="page">
+		<div class="page-area">
+			<header>
+				<h1>
+					<span class="text-animated">Junior-разработчик <br>Лемешков Данил <br>$</span><span
+						class="text-marker">_</span>
+				</h1>
+				<img src="./img/6502421.png" alt="notebook" class="title-img">
+			</header>
+		</div>
+	</section>
+	<section id="page2" class="page">
+		<div class="page-area">
+			<h2>О себе</h2>
+			
+			<p><img src="./img/user.png" alt="Будущее фото кандидата" class="user-image" srcset="">Опыт работы с командой, разработка и верстка WEB-приложений. Веду деловую переписку. Пунктуальный,
+				грамотный. Охотно и быстро воспринимаю информацию по указаной тематике. Хочу стать востребованным
+				профессионалом в области Fronted-developer.</p>
+		</div>
+	</section>
 
-    <section class="portfolio">
-    <div class="container">
-      <h2 class="subheading">Мои работы</h2>
-      <ul class="projects">
-        <li>
-          <figure class="project-image">
-            <img src="files/project.jpg" width="928" height="536" alt="Изображение сайта-магазина товаров для дома">
-          </figure>
-          <h3>Магазин товаров для дома</h3>
-          <p>Мой первый сайт.</p>
-          <a class="button" href="source/project-gloevk/index.html" target="_blank">Открыть страницу</a>
-        </li>
-        <li>
-          <figure class="project-image">
-            <img src="files/project2.png" width="928" height="536" alt="Изображение блога">
-          </figure>
-          <h3>Блог начинающего верстальщика</h3>
-          <p>Статический блог про обучение HTML и CSS.</p>
-          <a class="button" href="source/project-state-final/index.html" target="_blank">Открыть страницу</a>
-        </li>
-        <li>
-          <figure class="project-image">
-            <img src="files/project3.png" width="928" height="536" alt="Изображение сайта-сборника работ">
-          </figure>
-          <h3>Сборник работ</h3>
-          <p>Образцы решений Storyline и Rise в проектных работ</p>
-          <a class="button" href="source/project-learning-solutions-samples/index.html" target="_blank">Открыть страницу</a>
-        </li>
-      </ul>
-    </div>
-    </section>
+	<section id="page3" class="page">
+		<div class="page-area">
+			<h2
+				title="PS: Все указаные проценты - это приблезительный уровень понимания, &#013;и шкала не означает что в каждом навыке есть предел познания. 😉">
+				Навыки
+			</h2>
+			<dl class="skills-list">
+				<div class="skills-item">
+					<img src="./img/icon-Articulate360.png" alt="Icon articulate360" class="skill-icon">
+					<dt class="skill-art360">Articulate 360</dt>
+					<dd class="level">
+						<div style="width: 95%;" class="percent-skill">95%</div>
+					</dd>
+				</div>
 
-    <footer class="page-footer">
-      <div class="container">
-        <a class="footer-email" href="mailto:daniel.lemeshkov@gmail.com">daniel.lemeshkov@gmail.com</a>
-        <a class="footer-phone" href="tel:+79508363428">+7 950 836 34 28</a>
-        <a style="float: right; padding-top: 0px;" href="https://htmlacademy.ru/" target="_blank">#made_in_htmlacademy</a>
-    </div>
-    </footer>
+				<div class="skills-item">
+					<img src="./img/icon-html5.png" alt="Icon HTML5" class="skill-icon">
+					<dt class="skill-html">HTML</dt>
+					<dd class="level">
+						<div style="width: 75%;" class="percent-skill">75%</div>
+					</dd>
+				</div>
 
-    <script type="text/javascript">
-      let page = document.querySelector('body');
-      let themeButton = document.querySelector('.change-theme');
+				<div class="skills-item">
+					<img src="./img/icon-git.png" alt="Icon git" class="skill-icon">
+					<dt class="skill-git">git</dt>
+					<dd class="level">
+						<div style="width: 30%;" class="percent-skill">30%</div>
+					</dd>
+				</div>
 
-      themeButton.onclick = function(){
-        page.classList.toggle('dark-theme');
-        page.classList.toggle('light-theme');
-      }
-    </script>
-  </body>
+
+				<div class="skills-item">
+					<img src="./img/icon-css3.png" alt="Icon CSS3" class="skill-icon">
+					<dt class="skill-css">CSS</dt>
+					<dd class="level">
+						<div style="width: 60%;" class="percent-skill">60%</div>
+					</dd>
+				</div>
+
+				<div class="skills-item">
+					<img src="./img/icon-adobe_ps.png" alt="Icon Adobe Photoshop" class="skill-icon">
+					<dt class="skill-ps">Adobe Photoshop</dt>
+					<dd class="level">
+						<div style="width: 30%;" class="percent-skill">30%</div>
+					</dd>
+				</div>
+
+				<div class="skills-item">
+					<img src="./img/icon-js.png" alt="Icon JS" class="skill-icon">
+					<dt class="skill-js">JS</dt>
+					<dd class="level">
+						<div style="width: 20%;" class="percent-skill">20%</div>
+					</dd>
+				</div>
+			</dl>
+		</div>
+	</section>
+	<section id="page4" class="page">
+		<div class="page-area">
+			<h2>Мои работы</h2>
+			<div id="scrollCards" class="cards-elements">
+				<a class="project-item" href="" target="_blank">
+					<div class="card-preview">
+						<img src="./img/project3.png" alt="My 4th project">
+					</div>
+					<div class="card-description">
+						<h3 class="card-title">Разработка в Storyline и Rise</h3>
+						<p class="card-note">Сборник решений, таких слайдов как информативных, интерактивных, тренажеров и пр. собраные в Rise и Storyline</p>
+					</div>
+				</a>
+				<a class="project-item" href="" target="_blank">
+					<div class="card-preview">
+						<img src="./img/project.jpg" alt="My 4th project">
+					</div>
+					<div class="card-description">
+						<h3 class="card-title">Шаблон для вэб-магазина</h3>
+						<p class="card-note">Исходящий проект обучающей школы HTML Academy</p>
+					</div>
+				</a>
+				<a class="project-item" href="" target="_blank">
+					<div class="card-preview">
+						<img src="./img/project2.png" alt="My 4th project">
+					</div>
+					<div class="card-description">
+						<h3 class="card-title">Блог начинающего верстальшика</h3>
+						<p class="card-note">Исходящий проект обучающей школы HTML Academy</p>
+					</div>
+				</a>
+
+				<a class="project-item" href="" target="_blank">
+					<div class="card-preview">
+						<img src="./img/project4.png" alt="My 4th project">
+					</div>
+					<div class="card-description">
+						<h3 class="card-title">Аркадная игра</h3>
+						<p class="card-note">Данный проект находится на стадии разработки</p>
+					</div>
+				</a>
+				<button class="scroll-top-but hide" onclick="document.getElementById('scrollCards').scrollTop = 0;">^</button>
+			</div>
+		</div>
+	</section>
+	<section id="page5" class="page">
+		<div class="page-area">
+			<h2>Мои контакты</h2>
+			<div class="block-contact div">
+				<div class="block-contact__items">
+					<details>
+						<summary>
+							<img class="block-contact__logo" src="./img/icon_skype.png" alt="Logo of skype">
+							Skype
+						</summary>
+						<a href="https://join.skype.com/invite/mWbnsc8SZO05"
+							target="_blank">https://join.skype.com/invite/mWbnsc8SZO05</a>
+					</details>
+				</div>
+
+				<div class="block-contact__items">
+					<details>
+						<summary>
+							<img class="block-contact__logo" src="./img/icon_phone.png" alt="Logo of telephone number">
+							Тел.номер
+						</summary>
+						<a href="tel:+79508363428" target="_blank">+7(950)836-34-28</a>
+					</details>
+				</div>
+
+				<div class="block-contact__items">
+					<details>
+						<summary>
+							<img class="block-contact__logo" src="./img/icon_vk.png" alt="Logo of vkontakte">
+							ВКонтакте
+						</summary>
+						<a href="https://vk.com/limbo_dl" target="_blank">https://vk.com/limbo_dl</a>
+					</details>
+				</div>
+
+				<div class="block-contact__items">
+					<details>
+						<summary>
+							<img class="block-contact__logo" src="./img/icon_gmail.png" alt="Logo of gmail">
+							Gmail
+						</summary>
+						<a href="mailto:daniel.lemeshkov@gmail.com" target="_blank">daniel.lemeshkov@gmail.com</a>
+					</details>
+				</div>
+
+				<div class="block-contact__items">
+					<details>
+						<summary>
+							<img class="block-contact__logo" src="./img/icon_telegram.png" alt="Logo of telegram">
+							Telegram
+						</summary>
+						<a href="https://t.me/limdan_pass" target="_blank">https://t.me/limdan_pass</a>
+					</details>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<p>Портфолио ©2022 Все права защищены</p>
+	</footer>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+	<script src="./script.js"></script>
+</body>
+
 </html>
