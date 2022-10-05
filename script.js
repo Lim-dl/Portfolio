@@ -1,6 +1,4 @@
 window.onload = function () {
-
-  //Скролл к хедингу
   document.documentElement.scrollTop = 0;
   document.getElementById("scrollCards").scrollTop = 0;
 
@@ -10,9 +8,6 @@ window.onload = function () {
     document.body.classList.add('loaded');
     document.body.classList.remove('loaded_hiding');
   }, 500);
-
-  //сортировка
-
 }
 
 //Отслеживание позиции скролла и переключение стилей активной страницы
@@ -51,8 +46,6 @@ $('a[href^="#"]').on('click', function (e) { // Если ссылка являе
   return false; // Отменяем переход по ссылке => и вывод якоря в адресную строку
 });
 
-
-
 //Показ стартово хэдинга побуквенно (эффект печати)
 let textHeading = document.querySelector(".text-animated").innerText;
 document.querySelector(".text-animated").innerText = "";
@@ -61,14 +54,12 @@ function fun1(num, txt) {
   if (num++ < txt.length) {
     if (num > txt.length - 1) return 0;
     document.querySelector(".text-animated").innerText += txt[num];
-
     setTimeout(fun1, 30, num, txt);
   }
 }
-
 fun1(-1, textHeading);
 
-
+//кнопка перемотки карточек
 $("#scrollCards").on('scroll', function () {
   if ($("#scrollCards").scrollTop() <= 5) {
     $(".scroll-top-but").addClass('hide');

@@ -219,12 +219,6 @@ body {
   transition: border-color 1s cubic-bezier(0.85, 0.03, 0.05, 1.02);
 }
 
-#menu-content ul li a:hover {
-  content: "";
-  background-color: var(--mineBlue);
-  color: #fff;
-}
-
 #menu-frame>li>a.active {
   border-bottom: 3px solid rgb(3 143 236);
 }
@@ -257,6 +251,12 @@ body {
   #menu-frame>li a {
     height: 65px;
   }
+
+  #menu-content ul li a:hover {
+    content: "";
+    background-color: var(--mineBlue);
+    color: #fff;
+  }
 }
 
 @media screen and (max-width: 611px) {
@@ -270,8 +270,31 @@ body {
   #menu-frame>li a {
     height: 45px;
   }
-}
 
+  #menu-content ul li a:hover {
+    content: "";
+    animation: hoverButton 2s ease-in-out;
+  }
+  
+}
+@keyframes hoverButton {
+  from {
+    background-color: #fff;
+    color: #000;
+  }  
+  25%{
+    background-color: var(--mineBlue);
+    color: #fff;
+  }
+  75%{
+    background-color: var(--mineBlue);
+    color: #fff;
+  }
+  to {
+    background-color: #fff;
+    color: #000;
+  }
+}
 /* ---------------Content--------------- */
 /* General */
 section {
