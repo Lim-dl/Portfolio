@@ -273,19 +273,15 @@ body {
 
   #menu-content ul li a:hover {
     content: "";
-    animation: hoverButton 2s ease-in-out;
+    animation: hoverButton 1s ease-in-out;
   }
   
 }
 @keyframes hoverButton {
   from {
-    background-color: #fff;
-    color: #000;
-  }  
-  25%{
     background-color: var(--mineBlue);
     color: #fff;
-  }
+  }  
   75%{
     background-color: var(--mineBlue);
     color: #fff;
