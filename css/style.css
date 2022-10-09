@@ -639,7 +639,7 @@ button.scroll-top-but:hover {
 #page5 {
 /*   backdrop-filter: brightness(0.3); */
   min-height: calc(100vh - 50px);
-  color: white;
+  color: black;
 }
 
 .block-contact {
@@ -690,7 +690,7 @@ details summary::-webkit-details-marker {
 details summary {
   width: 100%;
   padding: 0.5rem 0;
-  border-top: 2px solid white;
+  border-top: 2px solid #038fec;
   position: relative;
   cursor: pointer;
   font-size: 1.25rem;
@@ -700,7 +700,7 @@ details summary {
 
 details summary:after {
   content: "+";
-  color: white;
+  color: #038fec;
   position: absolute;
   font-size: 1.75rem;
   line-height: 0;
@@ -725,7 +725,7 @@ details a {
   margin: 0 0 1rem;
   padding-top: 1rem;
   margin-bottom: 0.5rem;
-  color: #fff;
+  color: #000;
 }
 
 details a:hover {
@@ -741,7 +741,7 @@ footer {
 /*   backdrop-filter: brightness(0.3); */
   width: 100%;
   height: 50px;
-  	background-color: var(--mineDarkBlue);
+  	background-color: #000;
   color: #fff;
   text-align: center;
   z-index: 2;
