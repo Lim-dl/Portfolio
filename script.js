@@ -26,7 +26,7 @@ $(window).on('scroll', function () {
       bottom = top + $(this).outerHeight(),
       middle = $(this).outerHeight() / 2;
 
-    if (cur_pos + middle >= top && cur_pos + middle <= bottom) {
+    if (cur_pos>= top && cur_pos <= bottom) {
       nav.find('a').removeClass('active');
       sections.removeClass('active');
 
