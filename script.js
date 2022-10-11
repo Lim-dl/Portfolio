@@ -11,27 +11,21 @@ window.onload = function () {
 }
 
 //Отслеживание позиции скролла и переключение стилей активной страницы
-var sections = $('section')
-  , nav = $('nav')
-  , nav_height = nav.outerHeight();
-
-$(window).on('scroll', function () {
-  var cur_pos = $(this).scrollTop();
-
+window.addEventListener('scroll', event => {
   document.querySelector('.bubble__body--middle').style.backgroundPosition = '50% -' + (window.pageYOffset / 3.1) + "px";
   document.querySelector('.bubble__body--top').style.backgroundPosition = '50% -' + (window.pageYOffset / 1.5) + "px";
 
-  sections.each(function () {
-    var top = $(this).offset().top - nav_height,
-      bottom = top + $(this).outerHeight(),
-      middle = $(this).outerHeight() / 2;
-
-    if (cur_pos>= top && cur_pos <= bottom) {
-      nav.find('a').removeClass('active');
-      sections.removeClass('active');
-
-      $(this).addClass('active');
-      nav.find('a[href="#' + $(this).attr('id') + '"]').addClass('active');
+  let navigationLinks = document.querySelectorAll('ul li a');
+  let fromTop = window.scrollY;
+  navigationLinks.forEach(link => {
+    let section = document.querySelector(link.hash);
+    if (
+      section.offsetTop <= fromTop &&
+      section.offsetTop + section.offsetHeight/2 > fromTop
+    ) {
+      link.classList.add('active');
+    } else {
+      link.classList.remove('active');
     }
   });
 });
