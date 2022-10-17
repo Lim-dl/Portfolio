@@ -100,7 +100,7 @@ body {
 .letter {
   display: inline-block;
   font-size: calc((100vw - 480px)/(1920 - 480) * (90 - 30) + 30px);
-  color: rgb(0, 0, 0);
+  letter-spacing: 15px;
 }
 
 /* =Animate the stuff
@@ -156,7 +156,7 @@ body {
 
 @keyframes loadingF {
   from {
-    color: transparent;
+    color: #038fec;
   }
 
   to {
