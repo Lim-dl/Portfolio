@@ -12,7 +12,7 @@ window.onload = function () {
 
 //Отслеживание позиции скролла и переключение стилей активной страницы
 window.addEventListener('scroll', event => {
-  document.querySelector('.bubble__body--middle').style.backgroundPosition = '50% -' + (window.pageYOffset / 3.1) + "px";
+  document.querySelector('.bubble__body--middle').style.backgroundPosition = '50% -' + (window.pageYOffset / 2.5) + "px";
   document.querySelector('.bubble__body--top').style.backgroundPosition = '50% -' + (window.pageYOffset / 1.5) + "px";
 
   let navigationLinks = document.querySelectorAll('ul li a');

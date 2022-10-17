@@ -7,6 +7,7 @@
 
 @font-face {
   font-family: 'Test';
+  font-display: swap;
   src: url(../font/Courier_New.ttf);
 }
 
@@ -39,7 +40,7 @@ body {
   font-size: 18px;
   width: 100%;
   height: 100%;
-  background: url("../img/bg-mine.png") fixed center center no-repeat;
+  background: url("../img/backgroundMain.png") fixed center center no-repeat;
   background-size: cover;
   z-index: 0;
   min-width: 320px;
@@ -54,6 +55,7 @@ body {
   width: 100%;
   height: 100%;
   z-index: 1;
+  filter: blur(14px);
   transition: all 0.5s cubic-bezier(0, 0.55, 0.43, 1.82);
 }
 
@@ -66,6 +68,7 @@ body {
   width: 100%;
   height: 100%;
   z-index: 1;
+  filter: blur(5px);
   transition: all 0.5s cubic-bezier(0, 0.55, 0.43, 1.82);
 }
 
@@ -426,7 +429,7 @@ h2 {
 #page3 {}
 
 #page3>.page-area {
-  background: url("../img/background2section.png") left bottom;
+  background: url("../img/backgroundSection.png") left bottom;
   background-size: cover;
   margin: 20px 0 20px;
   box-shadow: 0px 0px 30px 0px #00000063;
