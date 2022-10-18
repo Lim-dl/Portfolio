@@ -73,7 +73,7 @@ p {
   margin-bottom: 12px;
 }
 
-.aboutMe-list li{
+.aboutme-list li{
   list-style: inside;
 }
 /* ---------------------------------------------Preloader --------------------------------------------- */
@@ -755,6 +755,7 @@ footer {
 }
 
 .hide {
-  opacity: 0;
-  visibility: hidden;
+/*   opacity: 0;
+  visibility: hidden; */
+  display: none;
 }
