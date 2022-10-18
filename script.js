@@ -23,7 +23,7 @@ function scrollTracking() {
       section.offsetTop + section.offsetHeight -1 > fromTop
     ) {
       link.classList.add('active');
-      console.table(fromTop, section.offsetTop, section.offsetTop + section.offsetHeight);
+/*       console.table(fromTop, section.offsetTop, section.offsetTop + section.offsetHeight); */
     } else {
       link.classList.remove('active');
     }
