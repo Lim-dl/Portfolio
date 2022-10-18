@@ -10,8 +10,7 @@ window.onload = function () {
   }, 500);
 }
 
-//Отслеживание позиции скролла и переключение стилей активной страницы
-window.addEventListener('scroll', event => {
+function scrollTracking() {
   document.querySelector('.bubble__body--middle').style.backgroundPosition = '50% -' + (window.pageYOffset / 2.5) + "px";
   document.querySelector('.bubble__body--top').style.backgroundPosition = '50% -' + (window.pageYOffset / 1.5) + "px";
 
@@ -20,15 +19,24 @@ window.addEventListener('scroll', event => {
   navigationLinks.forEach(link => {
     let section = document.querySelector(link.hash);
     if (
-      section.offsetTop <= fromTop &&
-      section.offsetTop + section.offsetHeight > fromTop
+      section.offsetTop - 1  <= fromTop &&
+      section.offsetTop + section.offsetHeight -1 > fromTop
     ) {
       link.classList.add('active');
+      console.table(fromTop, section.offsetTop, section.offsetTop + section.offsetHeight);
     } else {
       link.classList.remove('active');
     }
   });
+}
+
+window.addEventListener('scroll', event => {
+  scrollTracking();
 });
+
+window.addEventListener('resize', () => {
+  scrollTracking();
+})
 
 //Запрет показа якорей в адресной строке
 $('a[href^="#"]').on('click', function (e) { // Если ссылка является якорем, то выполняем следующее:
