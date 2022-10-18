@@ -1,4 +1,5 @@
 window.onload = function () {
+  //Изменение позиции при обновлении страницы
   document.documentElement.scrollTop = 0;
   document.getElementById("scrollCards").scrollTop = 0;
 
@@ -8,8 +9,20 @@ window.onload = function () {
     document.body.classList.add('loaded');
     document.body.classList.remove('loaded_hiding');
   }, 500);
+
+  //Тестовая сортировка
+  var items = document.querySelectorAll('.skills-item')
+  Array.from(items).sort(function (b, a) {
+    // using ~~ to cast the value to a number instead of a string
+    a = ~~a.querySelector('.percent-skill').innerText.replace(/%/g, '');
+    b = ~~b.querySelector('.percent-skill').innerText.replace(/%/g, '');
+    return a - b
+  }).forEach(function (n, i) {
+    n.style.order = i
+  })
 }
 
+//Трекинг скролла
 function scrollTracking() {
   document.querySelector('.bubble__body--middle').style.backgroundPosition = '50% -' + (window.pageYOffset / 2.5) + "px";
   document.querySelector('.bubble__body--top').style.backgroundPosition = '50% -' + (window.pageYOffset / 1.5) + "px";
@@ -19,11 +32,11 @@ function scrollTracking() {
   navigationLinks.forEach(link => {
     let section = document.querySelector(link.hash);
     if (
-      section.offsetTop - 1  <= fromTop &&
-      section.offsetTop + section.offsetHeight -1 > fromTop
+      section.offsetTop - 1 <= fromTop &&
+      section.offsetTop + section.offsetHeight - 1 > fromTop
     ) {
       link.classList.add('active');
-/*       console.table(fromTop, section.offsetTop, section.offsetTop + section.offsetHeight); */
+      /*       console.table(fromTop, section.offsetTop, section.offsetTop + section.offsetHeight); */
     } else {
       link.classList.remove('active');
     }
@@ -61,12 +74,3 @@ function fun1(num, txt) {
   }
 }
 fun1(-1, textHeading);
-
-//кнопка перемотки карточек
-$("#scrollCards").on('scroll', function () {
-  if ($("#scrollCards").scrollTop() <= 5) {
-    $(".scroll-top-but").addClass('hide');
-  } else {
-    $(".scroll-top-but").removeClass('hide');
-  }
-});

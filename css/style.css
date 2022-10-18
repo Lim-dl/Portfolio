@@ -69,7 +69,13 @@ body {
   z-index: 1;
   transition: all 0.5s cubic-bezier(0, 0.55, 0.43, 1.82);
 }
+p {
+  margin-bottom: 12px;
+}
 
+.aboutMe-list li{
+  list-style: inside;
+}
 /* ---------------------------------------------Preloader --------------------------------------------- */
 .load-wrapp {
   display: flex;
@@ -407,7 +413,7 @@ h2 {
 .user-image {
   margin: 0 10px 10px 0;
   float: left;
-  width: 45%;
+  width: 45.5%;
 }
 
 #page2 {
@@ -516,9 +522,22 @@ h2 {
 }
 
 @media all and (max-width:610px) {
+  #page2 {
+    background-color: #ffffff;
+    box-shadow: none;
+  }
+  
   .skills-item {
     width: 100%;
     margin: 21px 25px;
+  }
+
+  #page3>.page-area {
+  /*   margin: 20px 0 20px; */
+    box-shadow: none;
+    border-radius: 0px;
+    justify-content: center;
+    flex-direction: column;
   }
 }
 
