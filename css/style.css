@@ -72,10 +72,6 @@ body {
 p {
   margin-bottom: 12px;
 }
-
-.aboutme-list li{
-  list-style: inside;
-}
 /* ---------------------------------------------Preloader --------------------------------------------- */
 .load-wrapp {
   display: flex;
@@ -411,9 +407,9 @@ h2 {
 }
 
 .user-image {
-  margin: 10px 0;
-  float: left;
-  width: 100%;
+  margin: 0 0 0 25px;
+  float: right;
+  width: 45%;
 }
 
 #page2 {
@@ -421,9 +417,15 @@ h2 {
   box-shadow: 0 0 25px 1px #00000038;
 }
 
+.aboutme-list li{
+  list-style: circle;
+  list-style-type: disc;
+  margin: 8px 10px 0px 25px;
+}
+
 @media screen and (max-width: 690px) {
   .user-image {
-    margin: 0 10px 10px 0;
+    margin: 0;
     width: 100%;
   }
 }
@@ -582,7 +584,6 @@ h2 {
 }
 
 .card-preview img {
-  filter: brightness(0.9);
   z-index: 5;
   width: 100%;
   min-height: 160px;
@@ -593,10 +594,11 @@ h2 {
   content: "Нажмите, чтобы открыть";
   position: absolute;
   display: flex;
-  background-image: linear-gradient(0deg, #fff 50%, #ffffff08);
-  padding: 50px 35px 11px;
+  background-color: #fff;
+  box-shadow: 0px -20px 20px -9px #00000052;
+  padding: 10px 0px 10px;
   color: var(--mineBlue);
-  font-weight: 200;
+  font-weight: 500;
   letter-spacing: 0px;
   text-align: center;
   justify-content: center;
@@ -609,20 +611,18 @@ h2 {
   left: 0;
   right: 0;
   bottom: 0px;
-  opacity: 0;
-  transition: all 0.2s;
-  transform: translateY(20px);
-  filter: blur(5px);
+  transition: all 0.1s;
+  transform: translateY(35px);
+  opacity: 0.2;
 }
 
 .project-item:hover .card-preview::after {
-  opacity: 1;
-  filter: blur(0);
   transform: translateY(0px);
+  opacity: 1;
 }
 
 .project-item:hover .card-preview img {
-  filter: brightness(0.4);
+  filter: brightness(1);
 }
 
 @media screen and (max-width: 610px) {
@@ -637,11 +637,13 @@ h2 {
 
 .card-description {
   display: grid;
+  background: white;
   text-align: center;
   height: 100%;
   margin: 10px;
   align-items: stretch;
   justify-items: center;
+  z-index: 3;
 }
 
 #page5 {
