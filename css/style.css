@@ -594,6 +594,7 @@ h2 {
   content: "Нажмите, чтобы открыть";
   position: absolute;
   display: flex;
+  width: 100%;
   background-color: #fff;
   box-shadow: 0px -20px 20px -9px #00000052;
   padding: 10px 0px 10px;
