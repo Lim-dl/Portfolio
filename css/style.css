@@ -69,9 +69,11 @@ body {
   z-index: 1;
   transition: all 0.5s cubic-bezier(0, 0.55, 0.43, 1.82);
 }
+
 p {
   margin-bottom: 12px;
 }
+
 /* ---------------------------------------------Preloader --------------------------------------------- */
 .load-wrapp {
   display: flex;
@@ -290,22 +292,26 @@ p {
     content: "";
     animation: hoverButton 1s ease-in-out;
   }
-  
+
 }
+
 @keyframes hoverButton {
   from {
     background-color: var(--mineBlue);
     color: #fff;
-  }  
-  75%{
+  }
+
+  75% {
     background-color: var(--mineBlue);
     color: #fff;
   }
+
   to {
     background-color: #fff;
     color: #000;
   }
 }
+
 /* ---------------Content--------------- */
 /* General */
 section {
@@ -336,7 +342,11 @@ header {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  align-content: flex-start;
   width: 100%;
+  background-color: #f7f9ff;
+  box-shadow: 4px 4px 0px 0px black, 8px 8px white, 12px 12px black;
+  padding: 10px 30px;
 }
 
 .text-marker {
@@ -406,26 +416,55 @@ h2 {
   text-align: center;
 }
 
-.user-image {
-  margin: 0 0 0 25px;
-  float: right;
-  width: 45%;
-}
-
-#page2 {
+/* #page2 {
   background-color: #ffffffed;
   box-shadow: 0 0 25px 1px #00000038;
+} */
+
+.user-image {
+  margin: 0 25px 5px 0;
+  float: left;
+  width: 45%;
+  box-shadow: 5px 5px 0px 0px var(--mineBlueT);
+  border-radius: 11px;
+}
+.user-descript{
+  filter: drop-shadow(0px 0px 3px #fff);
 }
 
-.aboutme-list li{
-  list-style: circle;
-  list-style-type: disc;
-  margin: 8px 10px 0px 25px;
+.box-file {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  border: 3px solid var(--mineBlue);
+  border-radius: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 20px;
+  background-color: #ffffffb6;
+  transition: 0.2s ease-in-out;
+}
+
+.box-file__img {
+  width: 60px;
+}
+
+.box-file__download:hover {
+  color: var(--mineBlue)
+}
+.box-file:hover {
+  background-color: white;
+  filter: none;
+  backdrop-filter: none;
 }
 
 @media screen and (max-width: 690px) {
   .user-image {
-    margin: 0;
+    margin: 0 0 25px 0;
+    width: 100%;
+  }
+  .box-file {
     width: 100%;
   }
 }
@@ -435,7 +474,7 @@ h2 {
 #page3>.page-area {
   background: url("../img/backgroundSection.png") left bottom;
   background-size: cover;
-/*   margin: 20px 0 20px; */
+  /*   margin: 20px 0 20px; */
   box-shadow: 0px 0px 30px 0px #00000063;
   border-radius: 35px;
   justify-content: center;
@@ -525,17 +564,16 @@ h2 {
 
 @media all and (max-width:610px) {
   #page2 {
-    background-color: #ffffff;
-    box-shadow: none;
+
   }
-  
+
   .skills-item {
     width: 100%;
     margin: 21px 25px;
   }
 
   #page3>.page-area {
-  /*   margin: 20px 0 20px; */
+    /*   margin: 20px 0 20px; */
     box-shadow: none;
     border-radius: 0px;
     justify-content: center;
@@ -543,9 +581,7 @@ h2 {
   }
 }
 
-#page4 {
-
-}
+#page4 {}
 
 #page4>.page-area {
   max-width: 100%;
@@ -758,7 +794,7 @@ footer {
 }
 
 .hide {
-/*   opacity: 0;
+  /*   opacity: 0;
   visibility: hidden; */
   display: none;
 }
