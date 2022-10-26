@@ -344,9 +344,6 @@ header {
   justify-content: center;
   align-content: flex-start;
   width: 100%;
-  background-color: #f7f9ff;
-  box-shadow: 4px 4px 0px 0px black, 8px 8px white, 12px 12px black;
-  padding: 10px 30px;
 }
 
 .text-marker {
@@ -420,13 +417,16 @@ h2 {
   background-color: #ffffffed;
   box-shadow: 0 0 25px 1px #00000038;
 } */
-
+#page2 > .page-area {
+  background-color: #f7f9ff;
+  box-shadow: 4px 4px 0px 0px black;
+  padding: 0px 30px 30px;
+}
 .user-image {
   margin: 0 25px 5px 0;
   float: left;
   width: 45%;
-  box-shadow: 5px 5px 0px 0px var(--mineBlueT);
-  border-radius: 11px;
+  border-radius: 20px;
 }
 .user-descript{
   filter: drop-shadow(0px 0px 3px #fff);
@@ -434,29 +434,26 @@ h2 {
 
 .box-file {
   display: flex;
+  flex-wrap: nowrap;
+  align-content: center;
   justify-content: center;
   align-items: center;
   float: left;
-  border: 3px solid var(--mineBlue);
+  height: 80px;
   border-radius: 25px;
   margin-top: 15px;
   margin-bottom: 15px;
   padding: 20px;
-  background-color: #ffffffb6;
+  background-color: var(--mineBlue);
+  color: #ffffff;
   transition: 0.2s ease-in-out;
 }
 
 .box-file__img {
-  width: 60px;
+  height: 100%;
 }
-
-.box-file__download:hover {
-  color: var(--mineBlue)
-}
-.box-file:hover {
-  background-color: white;
-  filter: none;
-  backdrop-filter: none;
+.box-file__download{
+  margin: 0;
 }
 
 @media screen and (max-width: 690px) {
@@ -469,7 +466,15 @@ h2 {
   }
 }
 
-#page3 {}
+.box-file:hover{
+  box-shadow: 0 0 10px var(--mineBlue);
+  color: white;
+}
+.box-file:active{
+  box-shadow: inset 0 0 10px var(--mineDarkBlue);
+}
+
+/* #page3 {} */
 
 #page3>.page-area {
   background: url("../img/backgroundSection.png") left bottom;
