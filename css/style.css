@@ -39,7 +39,7 @@ body {
   font-family: ui-monospace, system-ui, fantasy;
   font-size: 18px;
   width: 100%;
-  height: 100%;
+/*   height: 100%; */
   background: url("../img/backgroundMain.png") fixed center center no-repeat;
   background-size: cover;
   z-index: 0;
@@ -313,6 +313,34 @@ p {
 }
 
 /* ---------------Content--------------- */
+.button {
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 12px;
+  background-color: var(--mineBlue);
+  transition: 0.2s ease-in-out;
+  z-index: 3;
+  left: 95%;
+  top: 93%;
+}
+
+.button__img {
+  width: 100%;
+  filter: invert(1) opacity(0.8);
+}
+.button:hover{
+  box-shadow: 0 0 10px var(--mineBlue);
+  color: white;
+}
+.button:active{
+  box-shadow: inset 0 0 10px var(--mineDarkBlue);
+}
 /* General */
 section {
   display: flex;
