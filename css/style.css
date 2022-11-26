@@ -610,6 +610,26 @@ h2 {
     justify-content: center;
     flex-direction: column;
   }
+
+  .skills-item:hover {
+    transition: 0.1s;
+    margin: 21px 25px;
+  }
+  
+  .skills-item:hover .level {
+    transition: 0.1s;
+    height: 15px;
+  }
+  
+  .skills-item:hover .percent-skill {
+    transition: 0.1s;
+    font-size: 9px;
+  }
+  
+  .skills-item:hover .skill-icon {
+    transition: 0.1s;
+    height: 51px;
+  }
 }
 
 #page4 {}
