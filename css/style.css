@@ -537,12 +537,12 @@ h2 {
 
 .skills-item:hover .level {
   transition: 0.1s;
-  height: 23px;
+  height: 31px;
 }
 
 .skills-item:hover .percent-skill {
   transition: 0.1s;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .skills-item:hover .skill-icon {
@@ -577,7 +577,7 @@ h2 {
   background-color: #ffffff;
   box-shadow: inset 0 0 12px #afafaf;
   border: 1px solid var(--mineGray);
-  border-radius: 10px;
+  border-radius: 25px;
   overflow: hidden;
   color: #fff;
   font-size: 9px;
