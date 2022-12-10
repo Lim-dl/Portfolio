@@ -736,6 +736,11 @@ h2 {
     z-index: 3;
     left: 84%;
     top: 88%;
+    box-shadow: 0 0 10px 0px #0000006e;
+  }
+  .button:hover{
+    box-shadow: 0 0 10px 0px #0000006e;
+    color: white;
   }
 }
 
