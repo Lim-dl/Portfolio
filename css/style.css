@@ -721,6 +721,22 @@ h2 {
     overflow: hidden;
     margin: 25px;
   }
+
+  .button {
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    width: 45px;
+    height: 45px;
+    padding: 12px;
+    background-color: var(--mineBlue);
+    transition: 0.2s ease-in-out;
+    z-index: 3;
+    left: 84%;
+    top: 88%;
+  }
 }
 
 .card-description {
